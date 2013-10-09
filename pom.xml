@@ -11,7 +11,7 @@
     <description>econfig intend to handle multiple configuration files for different environments</description>
     <packaging>jar</packaging>
 
-    <url>http://maven.apache.org</url>
+    <url>https://github.com/caelwinner/econfig</url>
     <licenses>
         <license>
             <name>The Apache Software License, Version 2.0</name>
@@ -26,9 +26,9 @@
     </scm>
     <developers>
         <developer>
-            <id>...</id>
-            <name>...</name>
-            <email>...</email>
+            <id>1</id>
+            <name>Adolfo Ernesto Custidiano Secchi</name>
+            <email>adolfoecs@gmail.com</email>
         </developer>
     </developers>
     <properties>
